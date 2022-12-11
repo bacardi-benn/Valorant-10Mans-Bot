@@ -11,6 +11,7 @@ The Valorant 10Mans Bot manages concurrent queues for custom 5v5 Valorant games.
 | !report or !r        | reports command user as the team that won |
 | !status or !s | to see the current queue's status |
 | !info or !i        | to see server elo stats |
+| !register or !reg | register to server |
 
 ## Gameplay Flow
 
